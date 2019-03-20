@@ -1,1 +1,1 @@
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://baidu.com)I hava to study the #markdown# for some day
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://baidu.com)I hava to study the **markdown** for some day
