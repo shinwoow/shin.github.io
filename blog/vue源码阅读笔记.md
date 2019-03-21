@@ -16,4 +16,4 @@
 </pre>
 这个函数极为巧妙的将str复制了n遍，空间复杂度和时间复杂度都极低。
 
-vue多处使用Object.create(null)创建新的空对象，这个方式抛弃了原型对象上的属性（toString、hasOwnPropert、 etc）都抛弃了，因为vue自己都重写了一份，目的时为了代码风格一致
+vue多处使用Object.create(null)创建新的空对象，这个方式抛弃了原型对象上的属性（toString、hasOwnPropert、 etc）都抛弃了，因为vue自己都重写了一份，目的是为了代码风格一致。
