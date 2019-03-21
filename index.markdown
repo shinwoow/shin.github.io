@@ -1,6 +1,6 @@
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://baidu.com)I hava to study the **markdown** for some day
 # Javascript学习与进阶
-### [关于js实现链表](shin.github.io/blog/linklist.md)
+### [关于js实现链表](/blog/linklist)
         
 ### 三级
 #### 四级
