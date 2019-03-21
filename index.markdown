@@ -17,6 +17,6 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
         这是测试
         真美绘制//士大夫撒
 
-<pre style="background:#000;color:#fff">
-  <code>zheshidaima </code>
+<pre>
+  <code style="background:#000;color:#fff">zheshidaima </code>
 </pre>
