@@ -3,7 +3,8 @@
 push可以向数组的末尾插入一个数据，pop可以将最后一个元素取出来，而unshift可以将数组的第0位数据取出来，改变数组长度，shift可以插入一个数据到第0位，如下：
 
 <pre>
-  <code>var list = [0,1,2,3]
+  <code>
+var list = [0,1,2,3]
 var div = document.getElementById('div')
 console.log(list)       //[0,1,2,3]
 function testPush () {
@@ -34,3 +35,4 @@ function testShift () {
   </code>
 </pre>
 ListNode.next = new ListNode(val)创建一个新的节点，遍历使用提供的next方法，瞬间感觉上了一个档次，当next属性为null时，则代表链表已经结束
+
