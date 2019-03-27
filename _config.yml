@@ -1,5 +1,1 @@
-theme: jekyll-theme-hacker;
-* {
-  font-size: 20px;
-  
-}
+theme: jekyll-theme-hacker
