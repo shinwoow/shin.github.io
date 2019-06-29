@@ -9,11 +9,11 @@
 配置webpack.base.cof
 在App.vue中引入vux的reset.less
 <pre>
-   <code>
+   <javascript>
       <style lang='less'>
       @import '~vux/src/styles/reset.less'
       </style>
-   </code>
+   </javascript>
 </pre>
 由于没有在style标签上加上<code>lang='less'</code>,导致<code>npm run dev</code>一直报错，提示找不到文件
 正常引入后，与原本引入的reset.css冲突，使得部分样式出现问题，偏离屏幕，删除其他的css文件，恢复正常，但是部分vux的组件显示不正确，解决中。。。
